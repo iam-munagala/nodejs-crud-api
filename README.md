@@ -33,12 +33,12 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/vamsimunagala/nodejs-crud-api.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd nodejs-crud-api
     ```
 
 3. Install the dependencies:
@@ -53,7 +53,7 @@ To install and run this project locally, follow these steps:
 
 5. Start the server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
